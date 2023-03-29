@@ -1,0 +1,114 @@
+.sushi_part{
+position: absolute;
+width: 1920px;
+height: 700px;
+background-color: aliceblue;
+}
+
+.description{
+width: 50%;
+height: 100%;
+
+}
+.sushi_image{
+   position: absolute;
+   width: 1039px;
+   height: 694px;
+}
+
+.htw{
+position: absolute;
+width: 82px;
+height: 17px;
+
+
+font-family: 'Product Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 17px;
+
+margin-top: 158px;
+margin-left: 974px;
+color: #F16214;
+}
+
+.text_header{
+position: absolute;
+width: 526px;
+height: 98px;
+
+
+font-family: 'Product Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 49px;
+
+color: #000000;
+
+margin-top: 181px;
+margin-left: 975px;
+display: inline-block;
+}
+
+.details{
+position: absolute;
+width: 570px;
+height: 139px;
+
+font-family: 'Product Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+
+margin-top: 324px;
+margin-left: 974px;
+color: #888888;
+display: inline-block;
+
+}
+
+.btn{
+
+   position: absolute;
+   width: 160px;
+   height: 50px;
+   margin-top: 492px;
+   margin-left: 975px;
+   font-size: 16px;
+   padding:0 0 0 16px;
+   text-align: left;
+   color: aliceblue;
+   background: #F16214;
+   border-radius: 54px;
+   display: inline-block;
+
+}
+.btn:hover{
+   color: white;
+   background-color: red;
+   border-color:black;
+}
+
+.circle{
+   position: absolute;
+   width: 40px;
+   height: 40px;
+   margin-left: 1090px;
+   margin-top: 497px ;
+   border-radius: 50%;
+   background: #FFFFFF;
+}
+
+.arrow{
+   transform: rotate(-45deg);
+   -webkit-transform: rotate(-45deg);
+   border: solid black;
+   border-width: 0 3px 3px 0;
+   display: inline-block;
+   padding: 3px;
+margin-top: 512px;
+margin-left: 1105px;;
+}
